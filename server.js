@@ -18,7 +18,7 @@ app.get('/ui/madi.png', function (req, res) {
 });
 
 app.get('/ui/screencapture-file-C-Users-YUGAL-Desktop-SoCon-16UI-htm-1472985729727.png', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'imad-2016-app/ui/screencapture-file-C-Users-YUGAL-Desktop-SoCon-16UI-htm-1472985729727.png'));
+  res.sendFile(path.join(__dirname, 'ui', 'screencapture-file-C-Users-YUGAL-Desktop-SoCon-16UI-htm-1472985729727.png'));
 });
 
 
